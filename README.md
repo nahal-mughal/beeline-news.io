@@ -1,1 +1,4 @@
-# newsapp.github.io
+# beelinenews.github.io
+
+npm i
+npm start
